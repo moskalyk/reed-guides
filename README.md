@@ -16,13 +16,13 @@ An ethglobal guide for direct action to perform key stroke manifestations to yie
 # Q: This card represents X, how would you Y?
 Which sponsor tool would you use? (multiple choice selection)
 Work in Progress
-Fool: <insert__multi_choice_tools> 				Right: Livepeer, 						Wrong: UMA
-Magician: <insert__multi_choice_tools> 			Right: Fluence, 						Wrong: Covalent
-High Priestess: <insert__multi_choice_tools> 	Right: NFTPort + Polygon, 				Wrong: Chainlink
-Empress: <insert__multi_choice_tools> 			Right: ENS, 							Wrong: Unlock Protocol
-Emperor: <insert__multi_choice_tools> 			Right: Worldcoin, 						Wrong: Livepeer
-Heirophant: <insert__multi_choice_tools> 		Right: IPFS, NFT.storage, Superfluid, 	Wrong: Covalent
-Lovers: <insert__multi_choice_tools> 			Right: The Graph, 						Wrong: NFTPort
+* Fool: <insert__multi_choice_tools> 				Right: Livepeer, 						Wrong: UMA
+* Magician: <insert__multi_choice_tools> 			Right: Fluence, 						Wrong: Covalent
+* High Priestess: <insert__multi_choice_tools> 		Right: NFTPort + Polygon, 				Wrong: Chainlink
+* Empress: <insert__multi_choice_tools> 			Right: ENS, 							Wrong: Unlock Protocol
+* Emperor: <insert__multi_choice_tools> 			Right: Worldcoin, 						Wrong: Livepeer
+* Heirophant: <insert__multi_choice_tools> 			Right: IPFS, NFT.storage, Superfluid, 	Wrong: Covalent
+* Lovers: <insert__multi_choice_tools> 				Right: The Graph, 						Wrong: NFTPort
 
 Beginner Path: Be the fool here, you're working on chance and innocence
 Hard Path: Consult with the aesthetic of the queen of swords for spiritual energy. What would they like to see?
