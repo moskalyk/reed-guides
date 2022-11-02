@@ -40,6 +40,31 @@ Work with sponsor for the prize in web3 weekend November 18th - 20th.
 2. $111
 3. 5 prizes @ $77
 
+Prizes from Eth San Franscisco Example
+- Polygon - a sidechain to the EVM that deploys transaction cheaply using a bridge
+- Optimism - an L2 Rollup for cheap transactions
+- Skale - A multichain scaling solution
+- Worldcoin - An interface for simulating a sybil-resistance token identifier from your Iris
+- IPFS - A global database, where information is always available
+- Uniswap - A platform for swapping tokens from one path of toen to the next
+- Near - A javascript based L1
+- Apecoin - A token fr the BoredApeYacht club Community
+- 0x - A Protocol for conjuring new trading marketplaces
+- Dune - An analytics platform for smart contracts
+- Lens - A social network where NFTs are used to follow other people
+- Livepeer - A decentralized streaming technology
+- ENS - A naming service for Ethereum names
+- XMTP - A Smart contract messaging platform
+- Push - A subcription push notifier for smart contracts
+- Mina - An L1 that provides O(1) and private zksnark transactions
+- UMA - Oracles for smart contract data
+- EVMOS - A Cosmos to EVM port for contracts and NFTs
+- Gnosis Chain - Ethereum's sister chain L1, also helps with the stable currency DAI
+- Covalent - A Smart contract data reader and Https API
+- Quicknode - A higher sense of gravity where nodes are run trusted in the cloud
+- The Graph - a graphql query for smart contracts
+
+
 #### P.S.
 This guide can be updated on the fly with other projects in the batch of abstractions
 
